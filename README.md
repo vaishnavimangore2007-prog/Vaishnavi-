@@ -1,4 +1,4 @@
-# Vaishnavi-
+
 Assignment 1
 # Program to demonstrate logical operators
 
