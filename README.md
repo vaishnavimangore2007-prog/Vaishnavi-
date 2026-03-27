@@ -1,86 +1,10 @@
 
-Assignment 1
-# Program to demonstrate logical operators
-
-a = True
-b = False
-
-print("Value of a:", a)
-print("Value of b:", b)
-
-print("a AND b:", a and b)
-print("a OR b:", a or b)
-print("NOT a:", not a)
-print("NOT b:", not b)
-
-OUTPUT 
-Value of a: True
-Value of b: False
-a AND b: False
-a OR b: True
-NOT a: False
-NOT b: True
 
 
 
 
-# Online Python compiler 
-#integer
-a=10
-print ("integer value:",a)
-print ("type:", type(a))
 
-#float
-b=5.5
-print("\n float value:",b)
-print("type:",type(b))
-
-#string
-c="hello python"
-print ("\n string value:",c)
-print ("type:", type(c))
-
-#set
-g=[1,2,3,4]
-print("\n set value:",g)
-print("type:",type(g))
-
-#list
-e=[1,2,3,4]
-print ("\n list value:",e)
-print("type:", type (e))
-
-#tuple
-f=(10,20,30)
-print ("\n tuple value:",f)
-print ("type:", type (f))
-
-#dictionary value
-h="vaishnavi age=19"
-print ("\n dictionary value:",h)
-print ("type:", type (h))
-
----OUTPUT
-integer value: 10
-type: <class 'int'>
-
- float value: 5.5
-type: <class 'float'>
-
- string value: hello python
-type: <class 'str'>
-
- set value: [1, 2, 3, 4]
-type: <class 'list'>
-
- list value: [1, 2, 3, 4]
-type: <class 'list'>
-
- tuple value: (10, 20, 30)
-type: <class 'tuple'>
-
- dictionary value: vaishnavi age=19
-type: <class 'str'>
+'>
 
 
 ASSIGNMENT 1
@@ -124,7 +48,7 @@ print("Type:", type(tuple_value))
 print()
 
 # Dictionary
-dict_value = {"Name": "Sanchita", "Age": 18, "Course": "computer Science"}
+dict_value = {"Name": "vaishnavi", "Age": 18, "Course": "computer Science"}
 print("Dictionary value:", dict_value)
 print("Type:", type(dict_value))
 print()
@@ -133,3 +57,32 @@ print()
 set_value = {1, 2, 3, 4, 4, 5}
 print("Set value:", set_value)
 print("Type:", type(set_value))
+
+---OUTPUT 
+
+Integer value: 10
+Type: <class 'int'>
+
+Float value: 10.5
+Type: <class 'float'>
+
+String value: Hello Python
+Type: <class 'str'>
+
+Boolean value: True
+Type: <class 'bool'>
+
+List value: [1, 2, 3, 'Python', 5.5]
+Type: <class 'list'>
+
+Tuple value: (1, 2, 3, 'Data')
+Type: <class 'tuple'>
+
+Dictionary value: {'Name': 'vaishnavi', 'Age': 18, 'Course': 'computer Science'}
+Type: <class 'dict'>
+
+Set value: {1, 2, 3, 4, 5}
+Type: <class 'set'>
+
+
+
