@@ -9,7 +9,7 @@
 
 ASSIGNMENT 1
 
-# Demonstration of different Python Data Types
+
 
 
 integer_value = 10
